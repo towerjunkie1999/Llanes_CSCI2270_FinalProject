@@ -1,0 +1,7 @@
+  For this project I will be using linked lists and/or binary search trees to develop a movie recommendation program.
+I will prompt the user to choose which 'filter' they'd like; options will include date of release, genre, movies
+alike other movies within the list, the movie's director, and the possible IMDb Top 250 Movies of all time ranking.
+I will also allow the user to delete movies from the list that they have seen or simply do not like/do not want to
+see pop up again. My program is influenced by one of our assignments, but I plan to implement the functionality of 
+a recommendation system rather than an inventory system. Movies are a big part of my life, so I felt it would be 
+appropriate to make something regarding that. 
